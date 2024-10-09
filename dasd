@@ -1,0 +1,30 @@
+[33mcommit 7ce73bde79c1b8c2ca998a467e5d8427a79afe98[m[33m ([m[1;36mHEAD -> [m[1;32mbugfix[m[33m)[m
+Author: unknown <herkodomi@gmail.com>
+Date:   Wed Oct 9 09:21:47 2024 +0200
+
+    bugfix1
+
+[33mcommit ca7f284292ae71694d97c05cc26fa5525261e239[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 0870f27 38189ff
+Author: unknown <herkodomi@gmail.com>
+Date:   Wed Oct 9 09:03:11 2024 +0200
+
+    Merge remote-tracking branch 'origin/main'
+
+[33mcommit 0870f278c0890cf66af4969d057e5ccc987efcfc[m
+Author: unknown <185196@BME.HU>
+Date:   Wed Oct 9 08:51:22 2024 +0200
+
+    main comit
+
+[33mcommit 38189ffe5aa73b57871d4a68a63509f6ed271234[m
+Author: herkodomi <167140106+herkodomi@users.noreply.github.com>
+Date:   Wed Oct 9 08:42:24 2024 +0200
+
+    Create maven.yml
+
+[33mcommit 0c672e9cb0bc8bc2d0c2d975a81eefd84ca01488[m
+Author: herkodomi <167140106+herkodomi@users.noreply.github.com>
+Date:   Wed Oct 9 08:33:00 2024 +0200
+
+    Initial commit
